@@ -1,5 +1,5 @@
 import React from "react"
-import "./login.css"
+import "../login/login.css"
 
 export const Register = () => {
   return (
